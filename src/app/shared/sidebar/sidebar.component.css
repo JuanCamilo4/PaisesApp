@@ -1,0 +1,11 @@
+li{
+    cursor: pointer;
+    transition: background-color 0.5;
+}
+li:hover{
+    background-color: rgb(233, 233, 233);
+    transition: background-color 0.5;
+}
+.no-active:hover{
+    background-color: #0d6efd !important;
+}
